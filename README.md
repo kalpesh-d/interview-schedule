@@ -40,7 +40,7 @@ A React application that allows HR/Recruiters to schedule, manage, and view inte
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/kalpesh-d/interview-schedule.git
    cd interview-scheduler
    ```
 
